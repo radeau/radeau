@@ -1,7 +1,7 @@
 ### Hi there 👋
 ![Header](https://github.com/radeau/radeau/blob/main/rad.jpg)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=radeau&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=radeau&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **radeau/radeau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
