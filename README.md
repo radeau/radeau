@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Header](https://github.com/radeau/radeau/blob/main/rad.jpg)
+![Header](https://github.com/radeau/radeau/blob/main/raddeau.png)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=radeau&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
