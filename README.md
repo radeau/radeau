@@ -1,7 +1,29 @@
 ### Hi there 👋
 ![Header](https://github.com/radeau/radeau/blob/main/raddeau.png)
+<p>&nbsp;</p>
+<a href="https://github.com/radeau/github-readme-stats">
+  <img align="center" style="width:50%" src="https://github-readme-stats.vercel.app/api?username=radeau&theme=react&show_icons=true" />
+</a>
+<p>&nbsp;</p>
+<a href="https://github.com/radeau/github-readme-stats">
+  <img align="center" style="width:50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=radeau&theme=react&show_icons=true&hide=less,ruby&layout=compact" />
+</a>
+<p>&nbsp;</p>
+<a href="https://github.com/radeau/frontend-mentor-challenges">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=radeau&repo=frontend-mentor-challenges&theme=react&show_icons=true" />
+</a>
+<a href="https://github.com/radeau/FCC-Projects">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=radeau&repo=FCC-Projects&theme=react&show_icons=true" />
+</a>
+<a href="https://github.com/radeau/Coursera-Full-Stack-Web-Development">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=radeau&repo=Coursera-Full-Stack-Web-Development&theme=react&show_icons=true" />
+</a>
+<a href="https://github.com/radeau/coursera-module-5">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=radeau&repo=coursera-module-5&theme=react&show_icons=true" />
+</a>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=radeau&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+<p>&nbsp;</p>
+
 
 <!--
 **radeau/radeau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
