@@ -1,6 +1,7 @@
 ### Hi there 👋
 ![Header](https://github.com/radeau/radeau/blob/main/raddeau.png)
-<p>&nbsp;</p>
+
+## 📈 GitHub Stats
 <a href="https://github.com/radeau/github-readme-stats">
   <img align="center" style="width:50%" src="https://github-readme-stats.vercel.app/api?username=radeau&theme=react&show_icons=true" />
 </a>
