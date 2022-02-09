@@ -7,8 +7,8 @@ I am an aspiring **Backend** Developer and currently learning the bits and bytes
 <!-- - 🔭 I’m currently working on 42 projects such as printf and born2beroot. -->
 - 🌱 I’m currently learning **NodeJS**, **MongoDB**, **APIs**.
 - 👯 I’m looking to collaborate on **Backend Dev** Projects
-- 📫 How to reach me: kevinradp@gmail.com
-- ⚡ Fun fact: I have a **love/hate** relationship with Programming
+- 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-rad-poquita) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&source=mailto&to=kevinradp@gmail.com)
+- 😁 Fun fact: I have a **love/hate** relationship with Programming
 
 ## ⚡ Tools & Technologies
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
