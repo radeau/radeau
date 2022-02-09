@@ -1,5 +1,9 @@
-### Hi there, I'm Kevin 👋    
+### Hi there, I'm Kevin 👋
+
+![Header](https://github.com/radeau/radeau/blob/main/rad.gif)
+
 ![](https://komarev.com/ghpvc/?username=your-github-radeau)
+
 <!-- https://github.com/antonkomarev/github-profile-views-counter -->
 I am an aspiring **Backend** Developer and currently learning the bits and bytes of it by building some projects. 
 
