@@ -1,6 +1,6 @@
 ### Hi there, I'm Kevin 👋
 
-![Header](https://github.com/radeau/radeau/blob/main/newrad.gif)
+<!-- ![Header](https://github.com/radeau/radeau/blob/main/newrad.gif) -->
 
 ![](https://komarev.com/ghpvc/?username=your-github-radeau)
 
