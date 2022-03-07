@@ -5,12 +5,11 @@
 ![](https://komarev.com/ghpvc/?username=your-github-radeau)
 
 <!-- https://github.com/antonkomarev/github-profile-views-counter -->
-I am an aspiring **Backend** Developer and currently learning the bits and bytes of it by building some projects. 
+I am an aspiring **Frontend** Developer and currently learning the bits and bytes of it by building some projects. 
 
 <!--![Header](https://github.com/radeau/radeau/blob/main/raddeau.png)-->
 <!-- - 🔭 I’m currently working on 42 projects such as printf and born2beroot. -->
-- 🌱 I’m currently learning **NodeJS**, **MongoDB**, **APIs**.
-- 👯 I’m looking to collaborate on **Backend Dev** Projects
+- 🌱 I’m currently learning the basics of **NodeJS**, **MongoDB**, **APIs** for backend.
 - 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-rad-poquita) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&source=mailto&to=kevinradp@gmail.com)
 - 😁 Fun fact: I have a **love/hate** relationship with Programming
 
@@ -21,6 +20,9 @@ I am an aspiring **Backend** Developer and currently learning the bits and bytes
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![ReactJS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
