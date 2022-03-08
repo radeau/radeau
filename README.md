@@ -9,7 +9,7 @@ I am an aspiring **Frontend** Developer and currently learning the bits and byte
 
 <!--![Header](https://github.com/radeau/radeau/blob/main/raddeau.png)-->
 <!-- - 🔭 I’m currently working on 42 projects such as printf and born2beroot. -->
-- 🌱 I’m currently learning the basics of **NodeJS**, **MongoDB**, **APIs** for backend.
+- 🌱 I’m also learning the basics of **NodeJS**, **MongoDB**, **APIs** for backend to get the gists of it.
 - 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-rad-poquita) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&source=mailto&to=kevinradp@gmail.com)
 - 😁 Fun fact: I have a **love/hate** relationship with Programming
 
