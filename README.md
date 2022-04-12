@@ -38,7 +38,7 @@ I am an aspiring **Frontend** Developer and currently learning the bits and byte
 <!--
 source >>> https://github.com/alexandresanlim/Badges4-README.md-Profile
 -->
-
+<!--
 ## 📈 Projects
 <p>&nbsp;</p>
 <a href="https://github.com/radeau/frontend-mentor-challenges">
@@ -54,5 +54,5 @@ source >>> https://github.com/alexandresanlim/Badges4-README.md-Profile
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=radeau&repo=42-get_next_line&theme=react&show_icons=true" />
 </a>
 <p>&nbsp;</p>
- 
+ -->
 
