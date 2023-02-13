@@ -1,17 +1,19 @@
-### Hi there, I'm Kevin 👋
+### Welcome to my GitHub Profile!
+
+Hi there, I'm Kevin 👋, a freelance frontend developer on a journey to mastering the skills and technologies of the trade.
+<!--I am currently honing my skills in JavaScript algorithms through exercises and delving into the React JS ecosystem. I have plans to create a project utilizing this framework soon. Additionally, I am expanding my knowledge in UX/UI design with the goal of becoming a UX Engineer.-->
 
 <!-- ![Header](https://github.com/radeau/radeau/blob/main/newrad.gif) -->
 
 ![](https://komarev.com/ghpvc/?username=your-github-radeau)
 
 <!-- https://github.com/antonkomarev/github-profile-views-counter -->
-I am an aspiring **Frontend** Developer and currently learning the bits and bytes of it by building some projects. 
 
 <!--![Header](https://github.com/radeau/radeau/blob/main/raddeau.png)-->
 <!-- - 🔭 I’m currently working on 42 projects such as printf and born2beroot. -->
-- 🌱 I’m also learning the basics of **NodeJS**, **MongoDB**, **APIs** for backend to get the gists of it.
+- 🌱 I am currently honing my skills in JavaScript Algorithms through exercises and delving into the React JS ecosystem.
 - 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-rad-poquita) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&source=mailto&to=kevinradp@gmail.com)
-- 😁 Fun fact: I have a **love/hate** relationship with Programming
+- 😁 Fun fact: I have a love-hate relationship with programming, but that doesn't stop me from pushing my limits every day!
 
 ## ⚡ Tools & Technologies
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -55,4 +57,7 @@ source >>> https://github.com/alexandresanlim/Badges4-README.md-Profile
 </a>
 <p>&nbsp;</p>
  -->
+ 
+ 
+ 
 
