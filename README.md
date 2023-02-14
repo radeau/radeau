@@ -1,11 +1,11 @@
-### Welcome to my GitHub Profile!
+### Welcome to my GitHub Profile! ![](https://komarev.com/ghpvc/?username=your-github-radeau)
 
 Hi there, I'm Kevin 👋, a freelance frontend developer on a journey to mastering the skills and technologies of the trade.
 <!--I am currently honing my skills in JavaScript algorithms through exercises and delving into the React JS ecosystem. I have plans to create a project utilizing this framework soon. Additionally, I am expanding my knowledge in UX/UI design with the goal of becoming a UX Engineer.-->
 
 <!-- ![Header](https://github.com/radeau/radeau/blob/main/newrad.gif) -->
 
-![](https://komarev.com/ghpvc/?username=your-github-radeau)
+ 
 
 <!-- https://github.com/antonkomarev/github-profile-views-counter -->
 
