@@ -11,8 +11,7 @@ Hi there, I'm Kevin 👋, a freelance software developer on a journey to masteri
 
 <!--![Header](https://github.com/radeau/radeau/blob/main/raddeau.png)-->
 <!-- - 🔭 I’m currently working on 42 projects such as printf and born2beroot. -->
-- 🌱 I am currently honing my skills in JavaScript Algorithms through exercises and delving into the React JS ecosystem.
-- 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-rad-poquita) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&source=mailto&to=kevinradp@gmail.com)
+
 - 😁 Fun fact: I have a love-hate relationship with programming, but that doesn't stop me from pushing my limits every day!
 
 ## ⚡ Tools & Technologies
